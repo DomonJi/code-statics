@@ -1,6 +1,6 @@
 # code-statics
 
-v0.0.1 MIT
+v0.0.1
 
 ## Usage
 
